@@ -1,0 +1,50 @@
+2025-09-07 00:25:38 INFO  TC01_AccRegTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-09-07 00:25:38 INFO  TC01_AccRegTest:21 - Clicked on MyAccount Link.. 
+2025-09-07 00:25:39 INFO  TC01_AccRegTest:24 - Clicked on Register Link.. 
+2025-09-07 00:25:39 INFO  TC01_AccRegTest:28 - Providing customer details...
+2025-09-07 00:25:40 INFO  TC01_AccRegTest:42 - Validating expected message..
+2025-09-07 00:25:40 INFO  TC01_AccRegTest:47 - Test passed
+2025-09-07 00:25:40 INFO  TC01_AccRegTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-09-07 00:29:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\29ati\eclipse\Eclipse_WorkSpace\Opencart\master.xml
+
+2025-09-07 00:29:07 INFO  TC01_AccRegTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-09-07 00:29:07 INFO  TC01_AccRegTest:21 - Clicked on MyAccount Link.. 
+2025-09-07 00:29:08 INFO  TC01_AccRegTest:24 - Clicked on Register Link.. 
+2025-09-07 00:29:08 INFO  TC01_AccRegTest:28 - Providing customer details...
+2025-09-07 00:29:10 INFO  TC01_AccRegTest:42 - Validating expected message..
+2025-09-07 00:29:10 INFO  TC01_AccRegTest:47 - Test passed
+2025-09-07 00:29:10 INFO  TC01_AccRegTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-09-07 00:44:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\29ati\eclipse\Eclipse_WorkSpace\Opencart\master.xml
+
+2025-09-07 00:44:54 INFO  TC01_AccRegTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-09-07 00:44:54 INFO  TC01_AccRegTest:21 - Clicked on MyAccount Link.. 
+2025-09-07 00:44:55 INFO  TC01_AccRegTest:24 - Clicked on Register Link.. 
+2025-09-07 00:44:55 INFO  TC01_AccRegTest:28 - Providing customer details...
+2025-09-07 00:44:56 INFO  TC01_AccRegTest:42 - Validating expected message..
+2025-09-07 00:44:57 INFO  TC01_AccRegTest:47 - Test passed
+2025-09-07 00:44:57 INFO  TC01_AccRegTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-09-07 18:00:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\29ati\eclipse\Eclipse_WorkSpace\Opencart\master.xml
+
+2025-09-07 18:04:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\29ati\eclipse\Eclipse_WorkSpace\Opencart\master.xml
+
+2025-09-07 18:06:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\29ati\eclipse\Eclipse_WorkSpace\Opencart\master.xml
+
+2025-09-07 18:06:12 INFO  TC03_LoginDDT:18 - **** Starting TC03 Login DDT *****
+2025-09-07 18:06:15 INFO  TC03_LoginDDT:78 - **** Finished TC03 Login DDT *****
+2025-09-07 18:06:15 INFO  TC03_LoginDDT:18 - **** Starting TC03 Login DDT *****
+2025-09-07 18:06:17 INFO  TC03_LoginDDT:18 - **** Starting TC03 Login DDT *****
+2025-09-07 18:06:19 INFO  TC03_LoginDDT:18 - **** Starting TC03 Login DDT *****
+2025-09-07 18:06:30 INFO  TC03_LoginDDT:78 - **** Finished TC03 Login DDT *****
+2025-09-07 18:06:30 INFO  TC03_LoginDDT:18 - **** Starting TC03 Login DDT *****
+2025-09-07 18:06:33 INFO  TC03_LoginDDT:78 - **** Finished TC03 Login DDT *****
+2025-09-07 21:21:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\29ati\eclipse\Eclipse_WorkSpace\Opencart\master.xml
+
+2025-09-07 21:23:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\29ati\eclipse\Eclipse_WorkSpace\Opencart\master.xml
+
